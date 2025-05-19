@@ -3,22 +3,6 @@ Proyek ini merupakan implementasi pengujian otomatis (Automation Testing) pada h
 
 -----
 
-## 📂 Struktur Direktori
-orangehrm-pom-automation/
-├── cypress/
-│   ├── e2e/
-│   │   ├── 1-getting-started/
-│   │   └── 2-advanced-examples/
-│   │       └── login.spec.cy.js # File pengujian otomatis untuk login
-│   ├── support/
-│   │   └── pages/
-│   │       └── LoginPage.js # Page Object Model untuk halaman login
-│   ├── fixtures/ # Data testing (jika ada)
-│   ├── downloads/ # Output file (jika digunakan)
-│   └── cypress.config.js # Konfigurasi otomatis Cypress
-├── package.json # Informasi proyek dan dependensi
-└── README.md # Dokumentasi proyek ini
-
 ## 🔧 Teknologi yang Digunakan
 - [Cypress](https://www.cypress.io/) - Framework testing end-to-end modern
 - JavaScript
