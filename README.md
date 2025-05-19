@@ -28,7 +28,7 @@ Proyek ini merupakan implementasi pengujian otomatis (Automation Testing) pada h
 
 -----
 
-🧾 Penjelasan Singkat
+## 🧾 Penjelasan Singkat
 LoginPages.js: Mendefinisikan elemen dan fungsi yang berhubungan dengan halaman login (menggunakan POM).
 login.spec.cy.js: Script utama untuk melakukan pengujian login.
 cypress.config.js: Mengatur konfigurasi dasar seperti baseUrl, viewport, dan sebagainya.
